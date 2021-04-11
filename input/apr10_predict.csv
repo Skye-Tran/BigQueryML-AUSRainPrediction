@@ -1,0 +1,7 @@
+MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustSpeed,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Temp9am,Temp3pm,Cloud9am,Cloud3pm,Date,Location,WindGustDir,WindDir9am,WindDir3pm,RainToday
+16.5,24.5,0.2,6.4,8,48,19,26,74,34,1006.9,1004,16.9,23.9,7,1,4/10/2021,Sydney,W,W,W,No
+23,33,18.8,6,4.5,28,9,17,86,77,1010,1007.3,29.1,30.7,7,5,4/10/2021,Darwin,NNW,WSW,NNW,Yes
+6,15.8,0,,,57,28,30,57,51,1006.3,1006.2,12.9,14.7,7,5,4/10/2021,Canberra,WNW,WNW,WNW,No
+22.4,30.4,0,,,22,4,13,73,66,1011,1007,25.8,29.2,8,,4/10/2021,Cairns,NNE,SE,NNE,No
+9.5,14.3,0,3,,63,13,24,76,60,995.4,994.9,11.8,9.9,7,6,4/10/2021,Hobart,W,NNE,NNW,No
+16.8,28.5,0,7.2,8.1,48,17,17,54,31,1020.1,1015.9,20.7,28.2,0,7,4/10/2021,Perth,ESE,ENE,ENE,No
