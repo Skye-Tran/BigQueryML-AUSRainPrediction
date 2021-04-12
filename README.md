@@ -8,6 +8,7 @@ Learning how to predict next-day rain is a simple and practical way to explore M
 - You don’t need to spend a ridiculous amount of time trying to figure out how to export data from your BigQuery data warehouse with a myriad of new tools
 - You don’t have to seek heaps of approvals if there are legal restrictions or compliance requirements that strictly govern how exporting data and moving it around for analysis and machine learning should happen (But of course, compliance with access control policies and common sense still applies here.)
 - You don’t need to drive yourself nuts to create an ML solution using Python/ Java or join the long waitlist for a chance to trouble someone else (or even an entire team) to help you out.
+
 From a business viewpoint, this approach means a simpler and faster way to leverage Machine Learning to predict what might happen in the future and how the business should respond to effectively seize the opportunities or mitigate the risks.
 
 ## Installation & Instructions
