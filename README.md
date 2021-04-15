@@ -15,6 +15,6 @@ From a business viewpoint, this approach means a simpler and faster way to lever
 No installation is required since all codes and ML models are executed on Google Cloud Platform. However, a GCP account is required and the following setup has to be completed. 
 1. Create a project on Google Cloud Platform
 2. Create a dataset on BigQuery
-3. Download the 2 CSV files (weatherAUS.csv and apr10_predict.csv) from my GitHub and upload them to Google Cloud Storage
+3. Download the 2 CSV files (weatherAUS.csv and apr10_predict.csv) from [Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) and my GitHub respectively. Then upload them to Google Cloud Storage
 
 Detailed instructions on how to run the entire project can be found on [my blog](http://thedigitalskye.com/2021/04/13/how-to-train-a-classification-model-to-predict-next-day-rain-with-google-bigquery-ml/) 
